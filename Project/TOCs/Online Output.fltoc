@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Top Level Topics/Biography.htm"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Top Level Topics/Interview.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Interview Topics/The Man.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Interview Topics/The Message.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Interview Topics/The Music.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Top Level Topics/Influences.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Influences Topics/Fulson.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Influences Topics/James.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Influences Topics/Johnson.htm" />
+    <TocEntry
+      Title="T-Bone Walker"
+      Link="/Content/C_Influences Topics/Walker.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Influences Topics/White.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/D_More Information/Company Information.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_More Information/FAQs.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_More Information/PDF Downloads.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D_More Information/Tips.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Sources"
+    Link="/Content/D_More Information/Sources.htm"></TocEntry>
+</CatapultToc>
