@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="323" MadCap:lastWidth="811">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <head>
         <meta charset="utf-8" />
         <meta name="description" content="" />
@@ -11,15 +11,11 @@
             <MadCap:bodyProxy />
             <div class="footer center">
                 <div class="HomeMasterPageFooter outer-row">
-                    <div><a href="../../Home.htm"><img src="../Images/CompanyLogo.png" alttext="" class="Hyperlinked footer-logo" /></a>
-                    </div>
+                    <div>&#160;</div>
                     <div>
-                        <div class="footer-links"><a href="../../D_More Information/PDF Downloads.htm">PDFs</a><a href="../../D_More Information/Tips.htm">Tips</a><a href="../../D_More Information/FAQs.htm">FAQs</a><a href="../../D_More Information/Company Information.htm">Company</a>
-                        </div>
-                        <p class="Copyright">Copyright © <MadCap:variable name="General.Year" /> <MadCap:variable name="General.CompanyName" /></p>
+                        <p class="Copyright">Created:  <MadCap:variable name="General.Year" />   by: <MadCap:variable name="General.Created by" /></p>
                     </div>
-                    <div class="footer-icons"><a href="https://twitter.com/#!/MadCapDocTeam" target="_blank"><img src="../Images/TwitterIcon.png" alttext="" class="Hyperlinked" /></a><a href="http://www.facebook.com/madcapdocteam" target="_blank"><img src="../Images/FacebookIcon.png" alttext="" class="Hyperlinked" /></a>
-                    </div>
+                    <div class="footer-icons">&#160;</div>
                 </div>
             </div>
         </div>

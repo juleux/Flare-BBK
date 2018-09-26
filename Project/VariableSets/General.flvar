@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
   <Variable
     Comment=""
-    Name="CompanyName">My Company Name, LLC</Variable>
+    Name="Created by"
+    EvaluatedDefinition="Julie Cunningham">Julie Cunningham</Variable>
   <Variable
     Comment=""
-    Name="PhoneNumber">858 123 4567</Variable>
+    Name="PhoneNumber"
+    EvaluatedDefinition="978-973-2557">978-973-2557</Variable>
   <Variable
     Name="StreetAddress"
     Comment=""
